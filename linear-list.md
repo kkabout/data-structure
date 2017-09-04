@@ -1,3 +1,4 @@
 # data-structure
-#inlucde "stdio"
+#inlucde "stdio";
 using namespace std ;
+
