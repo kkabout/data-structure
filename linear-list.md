@@ -1,4 +1,4 @@
 # data-structure
-#inlucde "stdio";
+#inlucde "iostream"
 using namespace std ;
 
