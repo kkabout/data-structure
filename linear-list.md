@@ -1,4 +1,10 @@
 # data-structure
-#inlucde "stdio";
+#inlucde "iosteam"
 using namespace std ;
+typedef struct List {
+List *list ;
+int  length ;
+
+}Sqlist;
+
 
